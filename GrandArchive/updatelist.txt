@@ -1,7 +1,6 @@
 GrandArchive	08-06-23
-plugins/GrandArchive/plugininfo.txt	https://www.dropbox.com/scl/fi/q2z3c4l8yo933srep9gwg/plugininfo.txt	271079
-plugins/GrandArchive/sets/setimages/general/cardback.jpg	https://www.dropbox.com/scl/fi/6kg51vpp41qw8wjer1els/cardback.jpg	-76142
-plugins/GrandArchive/sets/carddata.txt	https://www.dropbox.com/scl/fi/je58jz6frqlj6cadsof6s/carddata.txt	9613524
-
+plugins/GrandArchive/plugininfo.txt	https://raw.githubusercontent.com/cereemo/GrandArchiveLackey/main/GrandArchive/plugininfo.txt	271079
+plugins/GrandArchive/sets/setimages/general/cardback.jpg	https://github.com/cereemo/GrandArchiveLackey/blob/main/GrandArchive/sets/setimages/general/cardback.jpg	-76142
+plugins/GrandArchive/sets/carddata.txt	https://raw.githubusercontent.com/cereemo/GrandArchiveLackey/main/GrandArchive/sets/carddata.txt	9613524
 CardGeneralURLs:
-https://www.dropbox.com/scl/fo/4um0zmlobibzeqf73ylbn/h?rlkey=930dbpkeftkknrclmxuux33ez&dl=0
+https://github.com/cereemo/GrandArchiveLackey/tree/main/GrandArchive/sets/setimages
