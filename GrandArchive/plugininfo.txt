@@ -1,0 +1,143 @@
+<plugin>
+	<playerstat>
+		<label>Life</label>
+	</playerstat>
+	
+	<deckzone>
+		<label>Deck</label>
+		<shuffle>yes</shuffle>
+	</deckzone>
+	
+	<deckzone>
+		<label>Material Deck</label>
+	</deckzone>
+	
+	<gamezone>
+		<label>Hand</label>
+		<visibletoowner>yes</visibletoowner>
+	</gamezone>	
+	
+	<gamezone>
+		<label>Deck</label>
+	</gamezone>
+	
+	<gamezone>
+		<label>Material Deck</label>
+		<visibletoowner>yes</visibletoowner>
+	</gamezone>
+
+	<gamezone>
+		<label>Memory</label>
+		<visibletoowner>yes</visibletoowner>
+	</gamezone>
+
+	<gamezone>
+		<label>Graveyard</label>
+		<visibletoowner>yes</visibletoowner>
+		<visibletoothers>yes</visibletoothers>
+	</gamezone>
+	
+	<gamezone>
+		<label>Banished</label>
+		<visibletoothers>yes</visibletoothers>
+		<visibletoowner>yes</visibletoowner>
+	</gamezone>
+	
+	<phase><label>Wake up Phase</label></phase>
+	<phase><label>Materialize Phase</label></phase>
+	<phase><label>Recollection Phase</label></phase>
+	<phase><label>Draw Phase</label></phase>
+	<phase><label>Main Phase</label></phase>
+	<phase><label>Combat Phase</label></phase>
+	<phase><label>End Phase</label></phase>	
+	
+	<generalfunction>
+		<label>Wake up!</label>
+		<kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+	
+	<generalfunction>
+		<label>Draw</label>
+		<kind>DRAWCARD</kind>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+	
+	<generalfunction>
+		<label>Previous Phase</label>
+		<kind>PREVIOUSPHASE</kind>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+
+	<generalfunction>
+		<label>Next Phase</label>
+		<kind>NEXTPHASE</kind>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+
+	<generalfunction>
+		<label>Previous Turn</label>
+		<kind>PREVIOUSTURN</kind>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+
+	<generalfunction>
+		<label>Next Turn</label>
+		<kind>NEXTTURN</kind>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+	
+	<generalfunction>
+		<label>Materialize</label>
+		<kind>TRANSFERCARD</kind>
+		<sourceowner>performer</sourceowner>
+		<sourcegamezone>Memory</sourcegamezone>
+		<sourceposition>random</sourceposition>
+		<destinationgamezone>Banished</destinationgamezone>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+	
+	<cardfunction>
+		<label>flip</label>
+		<kind>TURNOVER</kind>
+		<includeasbutton>yes</includeasbutton?
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Wake Up!</label>
+		<kind>MAKERIGHT0DEGREES</kind>
+		<includeasbutton>yes</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>honk mimimi</label>
+		<kind>MAKERIGHT90DEGREES</kind>
+		<includeasbutton>yes</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>attack+1</label>
+		<kind>ADDCOUNTER</kind>
+		<color>red</color>
+		<PositionX>0</PositionX><PositionY>0</PositionY>
+	<cardfunction>
+	
+	<cardfunction>
+		<label>attack-1</label>
+		<kind>REMOVECOUNTER</kind>
+		<color>red</color>
+	<cardfunction>
+	
+	<cardfunction>
+		<label>health+1</label>
+		<kind>ADDCOUNTER</kind>
+		<color>green</color>
+		<PositionX>1</PositionX><PositionY>0</PositionY>
+	<cardfunction>
+	
+	<cardfunction>
+		<label>health-1</label>
+		<kind>REMOVECOUNTER</kind>
+		<color>green</color>
+	<cardfunction>
+</plugin>

@@ -1,0 +1,7 @@
+GrandArchive	08-06-23
+plugins/GrandArchive/plugininfo.txt	https://www.dropbox.com/scl/fi/q2z3c4l8yo933srep9gwg/plugininfo.txt	271079
+plugins/GrandArchive/sets/setimages/general/cardback.jpg	https://www.dropbox.com/scl/fi/6kg51vpp41qw8wjer1els/cardback.jpg	-76142
+plugins/GrandArchive/sets/carddata.txt	https://www.dropbox.com/scl/fi/je58jz6frqlj6cadsof6s/carddata.txt	9613524
+
+CardGeneralURLs:
+https://www.dropbox.com/scl/fo/4um0zmlobibzeqf73ylbn/h?rlkey=930dbpkeftkknrclmxuux33ez&dl=0
