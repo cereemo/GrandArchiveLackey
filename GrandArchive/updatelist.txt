@@ -1,6 +1,9 @@
-GrandArchive	08-06-23
+GrandArchive	08-07-23
 plugins/GrandArchive/plugininfo.txt	https://raw.githubusercontent.com/cereemo/GrandArchiveLackey/main/GrandArchive/plugininfo.txt	271079
 plugins/GrandArchive/sets/setimages/general/cardback.jpg	https://github.com/cereemo/GrandArchiveLackey/blob/main/GrandArchive/sets/setimages/general/cardback.jpg	-76142
-plugins/GrandArchive/sets/carddata.txt	https://raw.githubusercontent.com/cereemo/GrandArchiveLackey/main/GrandArchive/sets/carddata.txt	9613524
+plugins/GrandArchive/sets/carddata.txt	https://raw.githubusercontent.com/cereemo/GrandArchiveLackey/main/GrandArchive/sets/carddata.txt	9616371
+plugins/GrandArchive/version.txt	https://raw.githubusercontent.com/cereemo/GrandArchiveLackey/main/GrandArchive/version.txt	32414
+plugins/GrandArchive/decks/lorraine_starter.dek	https://raw.githubusercontent.com/cereemo/GrandArchiveLackey/main/GrandArchive/decks/lorraine_starter.dek	742769
+plugins/GrandArchive/decks/rai_starter.dek	https://raw.githubusercontent.com/cereemo/GrandArchiveLackey/main/GrandArchive/decks/rai_starter.dek	732450
 CardGeneralURLs:
 https://github.com/cereemo/GrandArchiveLackey/tree/main/GrandArchive/sets/setimages
