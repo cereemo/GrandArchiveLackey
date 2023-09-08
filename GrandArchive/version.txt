@@ -1,0 +1,6 @@
+<version>
+	<lastupdateYYMMDD>230807</lastupdateYYMMDD>
+	<versionurl>https://raw.githubusercontent.com/cereemo/GrandArchiveLackey/main/GrandArchive/version.txt</versionurl>
+	<updateurl>https://raw.githubusercontent.com/cereemo/GrandArchiveLackey/main/GrandArchive/plugininfo.txt</updateurl>
+	<message>fixed some broken stuff</message>
+</version>
