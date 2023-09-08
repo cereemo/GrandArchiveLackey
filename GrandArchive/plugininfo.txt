@@ -120,24 +120,24 @@
 		<kind>ADDCOUNTER</kind>
 		<color>red</color>
 		<PositionX>0</PositionX><PositionY>0</PositionY>
-	<cardfunction>
+	</cardfunction>
 	
 	<cardfunction>
 		<label>attack-1</label>
 		<kind>REMOVECOUNTER</kind>
 		<color>red</color>
-	<cardfunction>
+	</cardfunction>
 	
 	<cardfunction>
 		<label>health+1</label>
 		<kind>ADDCOUNTER</kind>
 		<color>green</color>
 		<PositionX>1</PositionX><PositionY>0</PositionY>
-	<cardfunction>
+	</cardfunction>
 	
 	<cardfunction>
 		<label>health-1</label>
 		<kind>REMOVECOUNTER</kind>
 		<color>green</color>
-	<cardfunction>
+	</cardfunction>
 </plugin>
