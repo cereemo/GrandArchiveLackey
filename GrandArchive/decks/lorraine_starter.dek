@@ -76,5 +76,6 @@
 		<card><name id="seers-sword-doa-alter">Seer&apos;s Sword</name><set>Dawn_of_Ashes_Alter_Edition</set></card>
 		<card><name id="warriors-longsword-doa-alter">Warrior&apos;s Longsword</name><set>Dawn_of_Ashes_Alter_Edition</set></card>
 		<card><name id="spirit-of-wind-doa-alter">Spirit of Wind</name><set>Dawn_of_Ashes_Alter_Edition</set></card>
+		<card><name id="lorraine-wandering-warrior-doa-alter">Lorraine, Wandering Warrior</name><set>Dawn_of_Ashes_Alter_Edition</set></card>
 	</superzone>
 </deck>
